@@ -1,9 +1,5 @@
 cookbook-flows
 ==============
 
-This is a Node-RED Project that contains all of the recipes from the
-[Node-RED Cookbook](https://cookbook.nodered.org).
 
-
-This project can be imported by enabling the Projects feature of Node-RED and then
-cloning this repository in the editor.
+- [Flows](img17.06.2024_19.41.51_REC.png)
